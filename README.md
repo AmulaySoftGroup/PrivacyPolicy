@@ -1,5 +1,6 @@
 # Privacy Policy for Educational Games for Kids by Maryam Peer
 Last updated: Oct 2024
+
 This privacy policy governs your use of the mobile application Educational Games for Kids created by Maryam Peer with bundle identifier com.learningplayhouse.kidseducational. The Application is designed for children and does not collect any personal information. This policy applies to all users of the Application.
 
 Developer Contact Information:
